@@ -1,2 +1,3 @@
-# readme
-# n.i.n.a
+## N.I.N.A.
+# Nearby Image Notification Application
+
