@@ -3,3 +3,5 @@ N.I.N.A., for Nearby Image Notification Application, continuously notifiers user
 For more information, questions or concerns, contact support at:
 
     nina [dot] otldesign [at] gmail [dot] com
+
+Over The Line Design, Inc.
